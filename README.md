@@ -6,15 +6,14 @@ This project is a robust authentication system designed to manage user registrat
 
 ## Features
 
-- User Registration
-- User Login
-- Password Encryption
-- JWT (JSON Web Token) Authentication
-- Middleware for Protected Routes
-- Input Validation
-- Error Handling
+- <i class="fas fa-user-plus"></i> User Registration
+- <i class="fas fa-sign-in-alt"></i> User Login
+- <i class="fas fa-lock"></i> Password Encryption
+- <i class="fas fa-key"></i> JWT (JSON Web Token) Authentication
+- <i class="fas fa-shield-alt"></i> Middleware for Protected Routes
+- <i class="fas fa-check-circle"></i> Input Validation
+- <i class="fas fa-exclamation-triangle"></i> Error Handling
 
 ## Project Structure
 
 The project follows a modular structure for better organization and maintainability:
-
